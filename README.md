@@ -5,7 +5,7 @@
 - 📫 How to reach me: www.linkedin.com/in/mitchellpohar
 - 😄 Pronouns: He/Him
 - ⚡ For Hiring Purposes: Due to academic integrity, I have a few private repositories that contain school projects,
-    please send a request to view it so I can add you to the repos.
+    please send a request to view them so I can add you to the repos.
 
 <!---
 mitchellpohar/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
