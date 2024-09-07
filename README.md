@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @mitchellpohar
+- 👀 I’m interested in reading, playing video games, and watching shows with my wife.
+- 🌱 I’m currently learning Web/Application Development and Game Design
+- 💞️ I’m currently collaborating on a Naval Information Warfare Center - Atlantic (NIWC-A) Application Project
+- 📫 How to reach me: www.linkedin.com/in/mitchellpohar
+- 😄 Pronouns: He/Him
+- ⚡ For Hiring Purposes: I have a few private repositories that contain school projects, 
+    to view, please send a request and I can add you to the repos.
+
+<!---
+mitchellpohar/README.md is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
